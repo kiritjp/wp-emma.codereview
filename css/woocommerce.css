@@ -1,0 +1,30 @@
+.woocommerce-breadcrumb {
+	display: none;
+}
+
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product {
+	text-align: center;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title,
+.woocommerce ul.products li.product .woocommerce-loop-product__title,
+.woocommerce ul.products li.product h3 {
+	color: #173558;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 18px;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title a,
+.woocommerce ul.products li.product .woocommerce-loop-product__title a,
+.woocommerce ul.products li.product h3 a {
+	color: #173558;
+}
+
+.woocommerce ul.products li.product .button {
+	display: none;
+}
+
+.woocommerce ul.products li.product .price {
+	color: #636363;
+}

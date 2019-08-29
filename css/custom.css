@@ -1,0 +1,9 @@
+.single_shop_attributes tr td:last-child{padding-left: 10px !important}
+.single_shop_attributes td select,.single_shop_attributes td input{width: 100%;padding: 10px;margin-bottom: 15px}
+td.product-name p {margin-bottom: 0;padding-left: 10px;font-size: 12px;line-height: normal;}
+.single_shop_attributes input[type=number]::-webkit-outer-spin-button,
+.single_shop_attributes input[type=number]::-webkit-inner-spin-button {-webkit-appearance: none;margin: 0;}
+.single_shop_attributes input[type=number] {-moz-appearance:textfield;}
+.woocommerce-order ul.wc-item-meta li {font-size: 13px;}
+.woocommerce-order ul.wc-item-meta li p {display: inline-block;}
+.attributeImg h2 {font-size: 18px;margin-top: 15px;}
